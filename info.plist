@@ -142,16 +142,10 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>This Snippet Trigger example workflow contains 4 types of actions:
+	<string>Allows you to filter through all available bangs scraped from https://duckduckgo.com/bang_lite.html 
 
-1. Triggering a system command
-2. Running a script and pasting the output text
-3. Requiring you enter free text and pasting the output
-4. Choosing from a list and pasting the output
-
-You'll find out more about this feature in the Snippet Trigger object documentation on our website.
-
-Need help with workflows? Pop by the forum (alfredforum.com) if you have any further questions :)</string>
+Use a the snippet ;;bangs or the keyword bangs to open the list.
+Selection will be pasted into the frontmost app.</string>
 	<key>uidata</key>
 	<dict>
 		<key>993AC03B-FCA7-41F5-AC3A-CC0BB3546DF5</key>
@@ -195,6 +189,8 @@ Need help with workflows? Pop by the forum (alfredforum.com) if you have any fur
 			<integer>340</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
 	<string>1.0</string>
 	<key>webaddress</key>
