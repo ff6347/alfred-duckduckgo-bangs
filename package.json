@@ -10,8 +10,8 @@
   "author": "Fabian Morón Zirfas <fabianmoronzirfas@protonmail.ch> (https://fabianmoronzirfas.me)",
   "license": "MIT",
   "dependencies": {
-    "got": "11.5.1",
-    "jsdom": "16.3.0"
+    "got": "11.6.0",
+    "jsdom": "16.4.0"
   },
   "devDependencies": {
     "@inpyjamas/scripts": "0.1.6-alpha",
