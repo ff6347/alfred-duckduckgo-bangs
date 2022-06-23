@@ -10,7 +10,7 @@
   "author": "Fabian Morón Zirfas <fabianmoronzirfas@protonmail.ch> (https://fabianmoronzirfas.me)",
   "license": "MIT",
   "dependencies": {
-    "got": "11.8.2",
+    "got": "11.8.5",
     "jsdom": "16.5.3"
   },
   "devDependencies": {
