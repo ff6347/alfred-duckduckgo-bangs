@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "got": "11.8.2",
-    "jsdom": "16.5.3"
+    "jsdom": "23.0.1"
   },
   "devDependencies": {
     "@inpyjamas/scripts": "0.1.6-alpha",
